@@ -3,6 +3,10 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KrishnaRoy7&show_icons=true&theme=gruvbox"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaRoy7&layout=compact"/>
 
+
+
+
+
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
