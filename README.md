@@ -1,6 +1,8 @@
 # Hi there, I'm Krishna👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KrishnaRoy7&show_icons=true&theme=gruvbox"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KrishnaRoy7&show_icons=true&theme=gruvbox"/>   
+
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaRoy7&layout=compact"/>
 
 
